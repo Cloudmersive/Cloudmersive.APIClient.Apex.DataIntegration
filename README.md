@@ -1,4 +1,4 @@
-# Data Integration API API Client
+# dataintegrationapi API Client
 
 Easily and directly query database backup files, convert into other file formats.
 
